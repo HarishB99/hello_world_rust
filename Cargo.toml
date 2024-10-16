@@ -1,0 +1,10 @@
+[package]
+name = "hello_world_rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "hello_world_rust"
+path = "hello_world_rust.rs"
+
+[dependencies]
